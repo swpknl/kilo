@@ -1,2 +1,2 @@
 # kilo
-Text editor written in C without any external dependencies
+Implemented kilo text editor in C
