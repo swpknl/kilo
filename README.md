@@ -1,2 +1,2 @@
 # kilo
-Implemented kilo text editor in C
+Implemented antirez's kilo text editor in C
